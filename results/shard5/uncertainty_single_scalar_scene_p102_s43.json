@@ -1,0 +1,18 @@
+{
+ "name": "single_scalar",
+ "r_psnr": 14.907426803618673,
+ "s_psnr": 13.944665802550213,
+ "recon_psnr": 16.886987575472265,
+ "n_channels": 1,
+ "uq_corr_total": 0.10524813324629577,
+ "scalar_auroc_H": 0.840805439374184,
+ "scalar_auprc_H": 0.4734661831137015,
+ "kind": "uncertainty",
+ "arch": "single_scalar",
+ "protocol": "scene",
+ "partition": 102,
+ "seed": 43,
+ "train_n": 861,
+ "test_n": 203,
+ "minutes": 35.162569439411165
+}

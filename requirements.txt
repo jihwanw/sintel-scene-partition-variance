@@ -1,0 +1,7 @@
+torch>=2.1
+torchvision
+numpy
+scipy
+scikit-learn
+pillow
+matplotlib

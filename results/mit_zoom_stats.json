@@ -1,0 +1,34 @@
+{
+ "apple": {
+  "y": 116,
+  "x": 108,
+  "patch_mae_direct": 0.1001950353384018,
+  "patch_mae_proposed": 0.08505002409219742,
+  "object_mae_direct": 0.1279229372739792,
+  "object_mae_proposed": 0.19554439187049866
+ },
+ "dinosaur": {
+  "y": 112,
+  "x": 112,
+  "patch_mae_direct": 0.304082453250885,
+  "patch_mae_proposed": 0.23505820333957672,
+  "object_mae_direct": 0.28640812635421753,
+  "object_mae_proposed": 0.23773284256458282
+ },
+ "panther": {
+  "y": 156,
+  "x": 196,
+  "patch_mae_direct": 0.5856021046638489,
+  "patch_mae_proposed": 0.4700184464454651,
+  "object_mae_direct": 0.3419252634048462,
+  "object_mae_proposed": 0.33642199635505676
+ },
+ "turtle": {
+  "y": 84,
+  "x": 96,
+  "patch_mae_direct": 0.09360908716917038,
+  "patch_mae_proposed": 0.0835123062133789,
+  "object_mae_direct": 0.07173459231853485,
+  "object_mae_proposed": 0.09044580161571503
+ }
+}

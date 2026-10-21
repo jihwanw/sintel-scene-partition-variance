@@ -1,0 +1,50 @@
+{
+ "apple": {
+  "raw_mae_direct": 0.1279229372739792,
+  "raw_mae_proposed": 0.19554439187049866,
+  "si_mae_direct": 0.10226552933454514,
+  "si_mae_proposed": 0.18169665336608887
+ },
+ "dinosaur": {
+  "raw_mae_direct": 0.28640812635421753,
+  "raw_mae_proposed": 0.23773284256458282,
+  "si_mae_direct": 0.2652677595615387,
+  "si_mae_proposed": 0.21382983028888702
+ },
+ "panther": {
+  "raw_mae_direct": 0.3419252634048462,
+  "raw_mae_proposed": 0.33642199635505676,
+  "si_mae_direct": 0.15282964706420898,
+  "si_mae_proposed": 0.1840182989835739
+ },
+ "turtle": {
+  "raw_mae_direct": 0.07173459231853485,
+  "raw_mae_proposed": 0.09044580161571503,
+  "si_mae_direct": 0.061729032546281815,
+  "si_mae_proposed": 0.08442005515098572
+ },
+ "cup1": {
+  "raw_mae_direct": 0.186908558011055,
+  "raw_mae_proposed": 0.20378388464450836,
+  "si_mae_direct": 0.07568922638893127,
+  "si_mae_proposed": 0.12887786328792572
+ },
+ "frog2": {
+  "raw_mae_direct": 0.09815486520528793,
+  "raw_mae_proposed": 0.10453296452760696,
+  "si_mae_direct": 0.09573239833116531,
+  "si_mae_proposed": 0.1028619185090065
+ },
+ "paper1": {
+  "raw_mae_direct": 0.39475017786026,
+  "raw_mae_proposed": 0.4288337528705597,
+  "si_mae_direct": 0.09164022654294968,
+  "si_mae_proposed": 0.15327899158000946
+ },
+ "teabag1": {
+  "raw_mae_direct": 0.150006964802742,
+  "raw_mae_proposed": 0.19164252281188965,
+  "si_mae_direct": 0.12186060100793839,
+  "si_mae_proposed": 0.1486431360244751
+ }
+}

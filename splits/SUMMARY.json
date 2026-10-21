@@ -1,0 +1,97 @@
+{
+ "scene_p101": {
+  "test_scenes": [
+   "bamboo_1",
+   "bandage_2",
+   "market_5",
+   "sleeping_2",
+   "temple_2"
+  ],
+  "n_test": 250,
+  "n_train": 814
+ },
+ "random_p101": {
+  "n_test": 213,
+  "n_train": 851,
+  "n_test_scenes_also_in_train": 23
+ },
+ "scene_p102": {
+  "test_scenes": [
+   "alley_2",
+   "ambush_4",
+   "ambush_6",
+   "cave_4",
+   "shaman_2"
+  ],
+  "n_test": 203,
+  "n_train": 861
+ },
+ "random_p102": {
+  "n_test": 213,
+  "n_train": 851,
+  "n_test_scenes_also_in_train": 23
+ },
+ "scene_p103": {
+  "test_scenes": [
+   "ambush_2",
+   "ambush_4",
+   "bamboo_2",
+   "market_5",
+   "market_6"
+  ],
+  "n_test": 194,
+  "n_train": 870
+ },
+ "random_p103": {
+  "n_test": 213,
+  "n_train": 851,
+  "n_test_scenes_also_in_train": 23
+ },
+ "scene_p104": {
+  "test_scenes": [
+   "cave_2",
+   "market_2",
+   "shaman_2",
+   "temple_2",
+   "temple_3"
+  ],
+  "n_test": 250,
+  "n_train": 814
+ },
+ "random_p104": {
+  "n_test": 213,
+  "n_train": 851,
+  "n_test_scenes_also_in_train": 23
+ },
+ "scene_p105": {
+  "test_scenes": [
+   "ambush_2",
+   "ambush_6",
+   "bamboo_1",
+   "cave_2",
+   "market_6"
+  ],
+  "n_test": 181,
+  "n_train": 883
+ },
+ "random_p105": {
+  "n_test": 213,
+  "n_train": 851,
+  "n_test_scenes_also_in_train": 23
+ },
+ "temporal": {
+  "n_test": 213,
+  "n_train": 851
+ },
+ "frame_alphabetical": {
+  "n_test": 213,
+  "n_train": 851,
+  "test_scenes": [
+   "shaman_3",
+   "sleeping_1",
+   "sleeping_2",
+   "temple_2",
+   "temple_3"
+  ]
+ }
+}

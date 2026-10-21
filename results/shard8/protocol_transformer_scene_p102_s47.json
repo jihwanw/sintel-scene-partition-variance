@@ -1,0 +1,18 @@
+{
+ "model": "transformer",
+ "R_MSE": 0.041645439341664314,
+ "S_MSE": 0.05412333071804964,
+ "H_MSE": 0.015561741803629467,
+ "Recon_MSE": 0.010204815502779989,
+ "R_PSNR": 13.80432550890182,
+ "S_PSNR": 12.666154842217384,
+ "Recon_PSNR": 19.91194838416667,
+ "kind": "protocol",
+ "arch": "transformer",
+ "protocol": "scene",
+ "partition": 102,
+ "seed": 47,
+ "train_n": 861,
+ "test_n": 203,
+ "minutes": 35.70906938711802
+}

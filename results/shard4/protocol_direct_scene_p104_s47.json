@@ -1,0 +1,17 @@
+{
+ "model": "direct",
+ "R_MSE": 0.030132646672427654,
+ "S_MSE": 0.05843675881624222,
+ "Recon_MSE": 0.021645044500473887,
+ "R_PSNR": 15.209627193663005,
+ "S_PSNR": 12.333138793877268,
+ "Recon_PSNR": 16.646415149688774,
+ "kind": "protocol",
+ "arch": "direct",
+ "protocol": "scene",
+ "partition": 104,
+ "seed": 47,
+ "train_n": 814,
+ "test_n": 250,
+ "minutes": 14.277387619018555
+}

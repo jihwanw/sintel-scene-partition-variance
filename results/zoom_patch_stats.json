@@ -1,0 +1,16 @@
+{
+ "frame0": {
+  "scene": "bandage_2",
+  "y": 0,
+  "x": 96,
+  "mae_direct": 0.17398996651172638,
+  "mae_proposed": 0.12484076619148254
+ },
+ "frame1": {
+  "scene": "sleeping_2",
+  "y": 60,
+  "x": 164,
+  "mae_direct": 0.17259596288204193,
+  "mae_proposed": 0.1281888782978058
+ }
+}

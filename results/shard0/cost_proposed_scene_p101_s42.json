@@ -1,0 +1,10 @@
+{
+ "kind": "cost",
+ "train_min_single": 32.8986514767011,
+ "params_M": 4.353324,
+ "infer_ms_single": 165.30689001083374,
+ "infer_ms_mcdrop_T20": 3373.628330230713,
+ "train_min_deepens5": 164.4932573835055,
+ "infer_ms_deepens5": 826.5344500541687,
+ "params_M_deepens5": 21.76662
+}

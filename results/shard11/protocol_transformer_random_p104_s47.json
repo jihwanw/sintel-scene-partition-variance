@@ -1,0 +1,18 @@
+{
+ "model": "transformer",
+ "R_MSE": 0.00863051095179149,
+ "S_MSE": 0.011026961995022637,
+ "H_MSE": 0.011613969558051654,
+ "Recon_MSE": 0.007886409959090608,
+ "R_PSNR": 20.639634869728972,
+ "S_PSNR": 19.575441183023273,
+ "Recon_PSNR": 21.03120645247786,
+ "kind": "protocol",
+ "arch": "transformer",
+ "protocol": "random",
+ "partition": 104,
+ "seed": 47,
+ "train_n": 851,
+ "test_n": 213,
+ "minutes": 35.0736549894015
+}
